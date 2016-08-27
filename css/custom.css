@@ -1,0 +1,121 @@
+#hanzo{
+	background : white;
+	margin 		:0px;
+	padding 	: 0px;
+	background: url(../images/hanzo.png) no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size: cover;
+}
+
+
+#tracer{
+	background : white;
+	margin 		:0px;
+	padding 	: 0px;
+	background: url(../images/tracer.png) no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size: cover;
+}
+
+#genji{
+	background : white;
+	margin 		:0px;
+	padding 	: 0px;
+	background: url(../images/genji.png) no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size: cover;
+}
+
+#overwatch{
+	background : white;
+	margin 		:0px;
+	padding 	: 0px;
+	background: url(../images/overwatch.png) no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size:cover;
+		-o-background-size:cover;
+		background-size: cover;
+}
+
+#wrap{
+	border 		: solid 1px #ccc;
+	width 		: 728px;
+	height:900px;
+	margin 		: 0 auto;
+	color: black
+	text-align center
+}
+#wrap nav{
+	
+	width 		: 766px;
+	
+
+	
+}
+
+#banner{
+	text-align: center;
+
+
+}
+
+nav ul{
+	border 		: solid 1px black;
+
+	list-style 	: none;
+	margin 		: 0px;
+	padding 	: 0px;s
+}
+
+nav ul li a{
+	border 		: solid 0px black;
+	width 		: 25%;
+	float 		: left;
+	text-align 	: center;
+	background 	: #39425E;	
+	padding-top : 10px;
+	padding-bottom : 10px;
+	position: top
+}
+h2 {
+opacity: 1;
+}
+
+nav ul li a{
+	font-family: impact;	
+	color: #E1E3E6;	
+}
+
+#contentArea{
+	clear 		: both;
+	
+}
+
+#contentArea section{
+	float 		: left;
+	width 		: 105.5%;
+	background  :white;
+	opacity: 1;
+	border 		: solid 0px black;
+}
+
+.content{
+	border 		: solid 0px black;
+	
+	margin 		: 0 auto;
+	padding 	: 0px;
+}
+
+
+
+p{
+	font-family: Fira Sans;
+	text-indent: 50px;
+
+}
